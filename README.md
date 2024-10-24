@@ -2,7 +2,7 @@
 
 Este é o último desafio promovido  pela [DIO](https://web.dio.me/play) em parceria com a [NTT DATA](https://www.nttdata.com/global/en/). com o tema **Engenharia de Dados com Python** onde vi e usei ferramenta como VSCode, GitHub, MySQL, SQL, Colab, Python, PySpar, Banco de dados, Power BI e Conexação com a Azure.
 
-**Fonte de Dados:**
+**Fonte de Dados:** [Juliana Macarenhas](https://github.com/julianazanelatto)
 
 O conjunto de dados utilizado foi "Financial Sample", que contém informações sobre vendas, produtos, descontos, segmentos de mercado e países.
 No entando em algum projetos Criamos os bancos de dados, as tabelas e os códigos para ingestão consulta entre outras etapas para fixar o aprendizado.
